@@ -16,3 +16,5 @@ EXPOSE 4200
 VOLUME [ "/projects" ]
 
 USER kai
+
+ENTRYPOINT [ "/bin/bash" ]
