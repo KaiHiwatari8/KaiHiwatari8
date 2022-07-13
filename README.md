@@ -24,6 +24,8 @@
 	- 🎢 Has ridden the world's highest roller coaster
 	- 🏢 Has visted the world's highest building (looks like a I like tall things)
 	- 🎖️ Has been awarded Times Person of the Year 2006
+
+- 📺 Favorite shows: Silicon Valley and Game of Thrones.
 	
 
 <!--
