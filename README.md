@@ -6,7 +6,7 @@
 
 - 💻 My technology stack is Java, Python, Typescript, Swift, Spring Boot, Angular, Amazon Web Services, Docker, Kubernetes, Firebase, Git, GitHub, GitLab, and Jetbrains IDE ecosystem. 
 
-- 🔭 I’m currently working as an SDE intern at T. Rowe Price and on my portfolio website at [jayprajapati.tech](jayprajapati.tech). 
+- 🔭 I’m currently working as an SDE intern at T. Rowe Price and on my portfolio website at [jayprajapati.tech](https://jayprajapati.tech). 
 
 - 🌱 I’m currently learning cloud technologies and ontainer orchestration system. My focus is AWS and GCP for cloud and Kubernetes for orchestration system.
 
