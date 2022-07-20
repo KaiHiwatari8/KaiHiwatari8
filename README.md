@@ -18,7 +18,7 @@
 	
 - 😄 Pronouns: He/Him/His.
 
-- ❣️ Relationship status: Comitted! (No one asked you Jay😏)
+<!-- - ❣️ Relationship status: Comitted! (No one asked you Jay😏) -->
 
 - ⚡ Fun fact:
 	- 🎢 Has ridden the world's highest roller coaster
