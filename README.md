@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 I am Jay Prajapati. I am pursuing Bachelor's in Science with concentration in Computer Science. I am an enthusiast develop, meaning I cannot sit idle and do nothing. I code like I breathe. I like to make utility apps, even more if they are CLI apps. I am also a tech and space enthusiast. I like to spend time on LeetCode.
+- 👨‍💻 I am Jay Prajapati. I am pursuing Bachelor's in Science with concentration in Computer Science. I am an enthusiast developer, meaning I cannot sit idle and do nothing. I code like I breathe. I like to make utility apps, even more if they are CLI apps. I am also a tech and space enthusiast. I like to spend time on LeetCode.
 
 - 🧗‍♂️ My role profiles include Data Scientist, Software engineer, Web-app developer, iOS developer, Python developer, Undergraduate Teaching Assistant, and UMD-CS Ambassador.
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as an SDE intern at T. Rowe Price and on my portfolio website at [jayprajapati.tech](https://jayprajapati.tech). 
 
-- 🌱 I’m currently learning cloud technologies and ontainer orchestration system. My focus is AWS and GCP for cloud and Kubernetes for orchestration system.
+- 🌱 I’m currently learning cloud technologies and container orchestration system. My focus is AWS and GCP for cloud and Kubernetes for orchestration system.
 
 - 💬 Ask me about: astronomy and space theories, Interstellar, and cars.
 
